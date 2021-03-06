@@ -96,7 +96,7 @@ INSERT INTO User
            (7, "smoothtwist", "joshselfie2.jpg", "Josh", "Arruda", "1997-04-15", "2019-02-02", "5558436781", ""),
            (8, "adrian_ridolfi", "adrian.png", "Adrian", "Ridolfi", "2000-05-30", "2017-03-03", "5559934567", ""),
            (9, "jkrawzcyk99", "default.jpg", "Joe", "Krawzcyk", "1999-02-26", "2014-09-10", "", "jkrawzcyk99@icloud.com"),
-           (10, "gene_belcher_421", "geneavatar.jpg", "Gene", "Belcher", "2000-10-12", "2019-12-25", "5554596687", "");
+           (10, "gene_belcher_600", "geneavatar.jpg", "Gene", "Belcher", "2000-10-12", "2019-12-25", "5554596687", "");
            
 -- Subscriber --
 INSERT INTO Subscriber

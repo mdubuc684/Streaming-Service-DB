@@ -65,7 +65,7 @@ WHERE m.User_1 = 1 AND
 
 -- Q5: Deleting a user --
 DELETE FROM user
-	WHERE username = "gene_belcher_421";
+	WHERE username = "gene_belcher_600";
 
 SELECT *
 FROM user;
